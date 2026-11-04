@@ -1,0 +1,3899 @@
+BEGIN:VCALENDAR
+PRODID:-//Trumba Corporation//Trumba Calendar Services 0.11.25929//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Northeastern Academic Calendar (Undergrad)
+X-WR-TIMEZONE:America/New_York
+METHOD:PUBLISH
+BEGIN:VEVENT
+SUMMARY:SEM: First day of I Am Here for full-semester\, first-half\, and
+  initial-third fall classes
+DTSTART;VALUE=DATE:20250828
+DTEND;VALUE=DATE:20250829
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115642Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691668
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691668
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Labor Day\, no classes
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250902
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T140240Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1394706242
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394706242
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: First day of full-semester\, first-half\, and initial-third
+  fall classes
+DTSTART;VALUE=DATE:20250903
+DTEND;VALUE=DATE:20250904
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115642Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691669
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691669
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Last day of I Am Here for full-semester\, first-half\, and 
+ initial-third fall classes
+DTSTART;VALUE=DATE:20250904
+DTEND;VALUE=DATE:20250905
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115642Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691670
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691670
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Full-semester\, first-half\, and initial-third fall classes
+  dropped for students who do not complete I Am Here
+DTSTART;VALUE=DATE:20250905
+DTEND;VALUE=DATE:20250906
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115642Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691671
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691671
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Last day of add/drop period for full-semester fall classes
+DTSTART;VALUE=DATE:20250916
+DTEND;VALUE=DATE:20250917
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115642Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691673
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691673
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Last day of withdrawal period for first-half fall classes
+DTSTART;VALUE=DATE:20251012
+DTEND;VALUE=DATE:20251013
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115642Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691682
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691682
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Indigenous Peoples Day\, no classes
+DTSTART;VALUE=DATE:20251013
+DTEND;VALUE=DATE:20251014
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T140240Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1394706243
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394706243
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Spring class schedule available
+DTSTART;VALUE=DATE:20251014
+DTEND;VALUE=DATE:20251015
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115643Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691683
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691683
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Spring class schedule available
+DTSTART;VALUE=DATE:20251014
+DTEND;VALUE=DATE:20251015
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+X-TRUMBA-CUSTOMFIELD;NAME="Organization";ID=34252;TYPE=Enumeration:Regis
+ trar&#39\;s Office
+DTSTAMP:20261103T171912Z
+DESCRIPTION:Academic Year: 2025-2026<br>Organization: Registrar's Office
+ <br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1259009140
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1259009140
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Last day of first-half fall classes
+DTSTART;VALUE=DATE:20251019
+DTEND;VALUE=DATE:20251020
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115643Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691684
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691684
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Faculty grade deadline for first-half fall classes at 2:00 
+ p.m. ET
+DTSTART;VALUE=DATE:20251021
+DTEND;VALUE=DATE:20251022
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115643Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691685
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691685
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: First day of I Am Here for second-half fall classes
+DTSTART;VALUE=DATE:20251021
+DTEND;VALUE=DATE:20251022
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115643Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691686
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691686
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Fall mid-semester degree conferral (by exception)
+DTSTART;VALUE=DATE:20251022
+DTEND;VALUE=DATE:20251023
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115643Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691687
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691687
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: First day of second-half fall classes
+DTSTART;VALUE=DATE:20251027
+DTEND;VALUE=DATE:20251028
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115643Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691688
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691688
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Last day of I Am Here for second-half fall classes
+DTSTART;VALUE=DATE:20251028
+DTEND;VALUE=DATE:20251029
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115643Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691690
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691690
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: second-half fall classes dropped for students who do not co
+ mplete I Am Here
+DTSTART;VALUE=DATE:20251029
+DTEND;VALUE=DATE:20251030
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115643Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691691
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691691
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Last day of add/drop period for second-half fall classes
+DTSTART;VALUE=DATE:20251102
+DTEND;VALUE=DATE:20251103
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115643Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691692
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691692
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Veterans Day\, no classes
+DTSTART;VALUE=DATE:20251111
+DTEND;VALUE=DATE:20251112
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T140240Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1394706244
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394706244
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: First day of spring registration period for undergraduate s
+ tudents
+DTSTART;VALUE=DATE:20251117
+DTEND;VALUE=DATE:20251118
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115644Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691702
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691702
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: First day of fall break
+DTSTART;VALUE=DATE:20251126
+DTEND;VALUE=DATE:20251127
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115644Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691703
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691703
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Fall classes resume
+DTSTART;VALUE=DATE:20251201
+DTEND;VALUE=DATE:20251202
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115644Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691704
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691704
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Last day of full-semester fall classes with final exams
+DTSTART;VALUE=DATE:20251207
+DTEND;VALUE=DATE:20251208
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115644Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691706
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691706
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Last day of withdrawal period for full-semester\, second-ha
+ lf\, and final-third fall classes
+DTSTART;VALUE=DATE:20251207
+DTEND;VALUE=DATE:20251208
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115644Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691707
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691707
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: First day of fall final exam period (if applicable)
+DTSTART;VALUE=DATE:20251208
+DTEND;VALUE=DATE:20251209
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115644Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691708
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691708
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Last day of fall final exam period (if applicable)
+DTSTART;VALUE=DATE:20251214
+DTEND;VALUE=DATE:20251215
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115644Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691711
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691711
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Last day of full-semester fall classes without final exams
+DTSTART;VALUE=DATE:20251214
+DTEND;VALUE=DATE:20251215
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115644Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691709
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691709
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Faculty grade deadline for full-semester\, second-half\, an
+ d final-third fall classes at 2:00 p.m. ET
+DTSTART;VALUE=DATE:20251216
+DTEND;VALUE=DATE:20251217
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115644Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691712
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691712
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Fall degree conferral
+DTSTART;VALUE=DATE:20251217
+DTEND;VALUE=DATE:20251218
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115644Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691713
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691713
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: First day of I Am Here for full-semester\, first-half\, and
+  initial-third spring classes
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115644Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691714
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691714
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: First day of full-semester\, first-half\, and initial-third
+  spring classes
+DTSTART;VALUE=DATE:20260107
+DTEND;VALUE=DATE:20260108
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115644Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691715
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691715
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Last day of I Am Here for full-semester\, first-half\, and 
+ initial-third spring classes
+DTSTART;VALUE=DATE:20260108
+DTEND;VALUE=DATE:20260109
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115644Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691716
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691716
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Full-semester\, first-half\, and initial-third spring class
+ es dropped for students who do not complete I Am Here
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260110
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115645Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691717
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691717
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Faculty grade deadline for full-semester fall classes for S
+ chool of Law at 2:00 p.m. ET
+DTSTART;VALUE=DATE:20260113
+DTEND;VALUE=DATE:20260114
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115645Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691719
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691719
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Martin Luther King Jr. Day\, no classes
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T140240Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1394706245
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394706245
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Last day of add/drop period for full-semester spring classe
+ s
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260121
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115645Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691720
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691720
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Summer class schedule available
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115645Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691722
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691722
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Last day of withdrawal period for first-half spring classes
+DTSTART;VALUE=DATE:20260215
+DTEND;VALUE=DATE:20260216
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115645Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691730
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691730
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Presidents Day\, no classes
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T140240Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1394706246
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394706246
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Last day of first-half spring classes
+DTSTART;VALUE=DATE:20260222
+DTEND;VALUE=DATE:20260223
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115645Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691732
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: First day of summer registration period for continuing grad
+ uate students and undergraduate students
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260224
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115645Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691733
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691733
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Faculty grade deadline for first-half spring classes at 2:0
+ 0 p.m. ET
+DTSTART;VALUE=DATE:20260224
+DTEND;VALUE=DATE:20260225
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115645Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691734
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691734
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Spring mid-semester degree conferral (by exception)
+DTSTART;VALUE=DATE:20260225
+DTEND;VALUE=DATE:20260226
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115645Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691735
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691735
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: First day of spring break
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260303
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115645Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691736
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691736
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: First day of I Am Here for second-half spring classes
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115646Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691737
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691737
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: First day of second-half spring classes
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260310
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115646Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691738
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691738
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Spring classes resume
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260310
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115646Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691739
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691739
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Last day of I Am Here for second-half spring classes
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260311
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115646Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691740
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691740
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: second-half spring classes dropped for students who do not 
+ complete I Am Here
+DTSTART;VALUE=DATE:20260311
+DTEND;VALUE=DATE:20260312
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115646Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691741
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691741
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Last day of add/drop period for second-half spring classes
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260316
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115646Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691742
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691742
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Fall class schedule available
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115646Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691744
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691744
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Farmworkers Day\, no classes (Oakland and Silicon Valley on
+ ly)
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T140240Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1384733067
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1384733067
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Good Friday\, no classes (Charlotte only)
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T140240Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1394706247
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394706247
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: First day of fall registration period for continuing underg
+ raduate students
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115647Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691753
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691753
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Last day of full-semester spring classes with final exams
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115647Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691755
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691755
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Last day of withdrawal period for full-semester\, second-ha
+ lf\, and final-third spring classes
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115647Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691756
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691756
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: First day of spring final exam period (if applicable)
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115647Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691757
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Patriots Day\, no classes (Boston and Portland only)
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T140240Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1394706248
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394706248
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Last day of full-semester spring classes without final exam
+ s
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115647Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691758
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691758
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Last day of spring final exam period (if applicable)
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115647Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691760
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691760
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Faculty grade deadline for full-semester\, second-half\, an
+ d final-third spring classes at 2:00 p.m. ET
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260429
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115647Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691761
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691761
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Spring degree conferral
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115647Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691762
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691762
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: First day of I Am Here for full-semester\, Session A\, and 
+ initial-third summer classes
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115647Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691763
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691763
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: First Day Fall Registration for Accelerated Bachelor of Sci
+ ence in Nursing programs (ABSN and ABSN-Transfer Track)
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115647Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691765
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691765
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: First day of full-semester\, Session A\, and initial-third 
+ summer classes
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115648Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691766
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691766
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Last day of I Am Here for full-semester\, Session A\, and i
+ nitial-third summer classes
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115648Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691767
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691767
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Full-semester\, Session A\, and initial-third summer classe
+ s dropped for students who do not complete I Am Here
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115648Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691768
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691768
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Last day of add/drop period for full-semester summer classe
+ s
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260520
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115648Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691770
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691770
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Memorial Day\, no classes
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T140240Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1394706249
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394706249
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Faculty grade deadline for full-semester spring classes for
+  School of Law at 2:00 p.m. ET
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115648Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691771
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691771
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Juneteenth\, no classes
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T140240Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1394706250
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394706250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Summer mid-semester degree conferral (by exception)
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115649Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691784
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691784
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Independence Day observed\, no classes
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T140240Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1394706251
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394706251
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Independence Day\, no classes
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T140241Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1394706252
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394706252
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Last day of full-semester summer classes with final exams
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115650Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691799
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691799
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Last day of withdrawal period for full-semester\, Session B
+ \, and final-third summer classes
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115650Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691800
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691800
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: First day of summer final exam period for full term (if app
+ licable)
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115650Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691801
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691801
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Last day of full-semester summer classes without final exam
+ s
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115650Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691802
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691802
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Last day of summer final exam period (if applicable)
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115650Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691804
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691804
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Faculty grade deadline for full-semester\, Session B\, and 
+ final-third summer classes at 2:00 p.m. ET
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115650Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691805
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691805
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEM: Summer degree conferral
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115651Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1394691806
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1394691806
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of I Am Here for full-semester\, Session A\, and initi
+ al-third fall classes
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115651Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627522
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Labor Day\, no classes
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T140241Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1396629191
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396629191
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of full-semester\, Session A\, and initial-third fall 
+ classes
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115651Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627523
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627523
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of I Am Here for full-semester\, Session A\, and initia
+ l-third fall classes
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115651Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627524
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627524
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Full-semester\, Session A\, and initial-third fall classes dropp
+ ed for students who do not complete I Am Here
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115651Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627525
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627525
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Faculty grade deadline for full-semester summer classes for Scho
+ ol of Law at 2:00 p.m. ET
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2025-
+ 2026
+DTSTAMP:20261103T115651Z
+DESCRIPTION:Academic Year: 2025-2026<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1390554609
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1390554609
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of add/drop period for full-semester fall classes
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115651Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627527
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627527
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Indigenous Peoples Day\, no classes
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T140241Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1396629192
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396629192
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring class schedule available
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115652Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627537
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627537
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall mid-semester degree conferral (by exception)
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115653Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627541
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627541
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Veterans Day\, no classes
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T140241Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1396629193
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396629193
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of spring registration period for undergraduate studen
+ ts
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115654Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627552
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627552
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of fall break
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115654Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627557
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627557
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall classes resume
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115654Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627558
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627558
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of full-semester fall classes with final exams
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115654Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627560
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627560
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of withdrawal period for full-semester\, Session B\, an
+ d final-third fall classes
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115654Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627561
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627561
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of fall final exam period (if applicable)
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115654Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627562
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627562
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of fall final exam period (if applicable)
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115655Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627565
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627565
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of full-semester fall classes without final exams
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115654Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627563
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627563
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Faculty grade deadline for full-semester\, Session B\, and final
+ -third fall classes at 2:00 p.m. ET
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115655Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627566
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627566
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall degree conferral
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115655Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627567
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627567
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of I Am Here for full-semester\, Session A\, and initi
+ al-third spring classes
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115655Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627568
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627568
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of full-semester\, Session A\, and initial-third sprin
+ g classes
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115655Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627569
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627569
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of I Am Here for full-semester\, Session A\, and initia
+ l-third spring classes
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115655Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627570
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627570
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Full-semester\, Session A\, and initial-third spring classes dro
+ pped for students who do not complete I Am Here
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115655Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627571
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627571
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Martin Luther King Jr. Day\, no classes
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T140241Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1396629194
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396629194
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Faculty grade deadline for full-semester fall classes for School
+  of Law at 2:00 p.m. ET
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115655Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627573
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627573
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of add/drop period for full-semester spring classes
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115655Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627574
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627574
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Summer class schedule available
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115655Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627576
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627576
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Presidents Day\, no classes
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T140241Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1396629195
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396629195
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of summer registration period for continuing graduate 
+ students and undergraduate students
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115656Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627587
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627587
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring mid-semester degree conferral (by exception)
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115656Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627589
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627589
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of spring break
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115656Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627590
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627590
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring classes resume
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115656Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627593
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627593
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall class schedule available
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115656Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627598
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627598
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Good Friday\, no classes (Charlotte only)
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T140241Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1396629196
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396629196
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Farmworkers Day\, no classes (Oakland and Silicon Valley on
+ ly)
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T140241Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1396629197
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396629197
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of fall registration period for continuing undergradua
+ te students
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270413
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115657Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627607
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627607
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Patriots Day\, no classes (Boston and Portland only)
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T140241Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1396629198
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396629198
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of full-semester spring classes with final exams
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115657Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627609
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627609
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of withdrawal period for full-semester\, Session B\, an
+ d final-third spring classes
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115657Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627610
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627610
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of spring final exam period (if applicable)
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115657Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627611
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627611
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of full-semester spring classes without final exams
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115657Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627612
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627612
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of spring final exam period (if applicable)
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115657Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627614
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627614
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Faculty grade deadline for full-semester\, Session B\, and final
+ -third spring classes at 2:00 p.m. ET
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115657Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627615
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627615
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring degree conferral
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115657Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627616
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627616
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of I Am Here for full-semester\, Session A\, and initi
+ al-third summer classes
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115657Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627617
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627617
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of Fall registration period for ABSN Students
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115657Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627621
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of Fall registration period for new undergraduate and 
+ graduate College of Professional Studies students
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115657Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627618
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627618
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of full-semester\, Session A\, and initial-third summe
+ r classes
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115657Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627619
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627619
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of I Am Here for full-semester\, Session A\, and initia
+ l-third summer classes
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115658Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627622
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627622
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Full-semester\, Session A\, and initial-third summer classes dro
+ pped for students who do not complete I Am Here
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115658Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627623
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627623
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of add/drop period for full-semester summer classes
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115658Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627625
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627625
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Memorial Day\, no classes
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T140241Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1396629199
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396629199
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115658Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1389670346
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1389670346
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Faculty grade deadline for full-semester spring classes for Scho
+ ol of Law at 2:00 p.m. ET
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115658Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627626
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627626
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Juneteenth observed\, no classes
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T140241Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1396629200
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396629200
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Juneteenth\, no classes
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T140241Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1396629201
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396629201
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Summer mid-semester degree conferral (by exception)
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115700Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627639
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627639
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Independence Day\, no classes
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T140241Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1396629202
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396629202
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Independence Day observed\, no classes
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T140241Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1396629203
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396629203
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115700Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1389670361
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1389670361
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of Fall registration period for new and continuing  La
+ w students
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270720
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115701Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627648
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627648
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of full-semester summer classes with final exams
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115702Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627654
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627654
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of withdrawal period for full-semester\, Session B\, an
+ d final-third summer classes
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115702Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627655
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627655
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of summer final exam period for full term (if applicab
+ le)
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115702Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627656
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627656
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of full-semester summer classes without final exams
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115702Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627657
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627657
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of summer final exam period (if applicable)
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115702Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627659
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627659
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Faculty grade deadline for full-semester\, Session B\, and final
+ -third summer classes at 2:00 p.m. ET
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115702Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627660
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627660
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Summer degree conferral
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115702Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627661
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of I Am Here for full-semester\, Session A\, and initi
+ al-third fall classes
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270903
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115703Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611031
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611031
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Labor Day\, no classes
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T140241Z
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1450611133
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611133
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of full-semester\, Session A\, and initial-third fall 
+ classes
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115703Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611032
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611032
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of I Am Here for full-semester\, Session A\, and initia
+ l-third fall classes
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270910
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115703Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611033
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611033
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Full-semester\, Session A\, and initial-third fall classes dropp
+ ed for students who do not complete I Am Here
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115703Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611034
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611034
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Faculty grade deadline for full-semester summer classes for Scho
+ ol of Law at 2:00 p.m. ET
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2026-
+ 2027
+DTSTAMP:20261103T115703Z
+DESCRIPTION:Academic Year: 2026-2027<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1396627662
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1396627662
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Indigenous Peoples Day\, no classes
+DTSTART;VALUE=DATE:20271011
+DTEND;VALUE=DATE:20271012
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T140241Z
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1450611134
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611134
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring class schedule available
+DTSTART;VALUE=DATE:20271018
+DTEND;VALUE=DATE:20271019
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115703Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611041
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611041
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Veterans Day\, no classes
+DTSTART;VALUE=DATE:20271111
+DTEND;VALUE=DATE:20271112
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T140241Z
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1450611135
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611135
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of spring registration period for undergraduate studen
+ ts
+DTSTART;VALUE=DATE:20271115
+DTEND;VALUE=DATE:20271116
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115712Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611051
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611051
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of fall break
+DTSTART;VALUE=DATE:20271124
+DTEND;VALUE=DATE:20271125
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115712Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611055
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611055
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall classes resume
+DTSTART;VALUE=DATE:20271129
+DTEND;VALUE=DATE:20271130
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115712Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611056
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611056
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of full-semester fall classes with final exams
+DTSTART;VALUE=DATE:20271212
+DTEND;VALUE=DATE:20271213
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115712Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611058
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611058
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of fall final exam period (if applicable)
+DTSTART;VALUE=DATE:20271213
+DTEND;VALUE=DATE:20271214
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115712Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611059
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611059
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of fall final exam period (if applicable)
+DTSTART;VALUE=DATE:20271219
+DTEND;VALUE=DATE:20271220
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115712Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611060
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611060
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of full-semester fall classes without final exams
+DTSTART;VALUE=DATE:20271219
+DTEND;VALUE=DATE:20271220
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115712Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611062
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611062
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of I Am Here for full-semester\, Session A\, and initi
+ al-third spring classes
+DTSTART;VALUE=DATE:20280106
+DTEND;VALUE=DATE:20280107
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115712Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611063
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611063
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of full-semester\, Session A\, and initial-third sprin
+ g classes
+DTSTART;VALUE=DATE:20280112
+DTEND;VALUE=DATE:20280113
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115712Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611064
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611064
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of I Am Here for full-semester\, Session A\, and initia
+ l-third spring classes
+DTSTART;VALUE=DATE:20280113
+DTEND;VALUE=DATE:20280114
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115712Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611065
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611065
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Full-semester\, Session A\, and initial-third spring classes dro
+ pped for students who do not complete I Am Here
+DTSTART;VALUE=DATE:20280114
+DTEND;VALUE=DATE:20280115
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115712Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611066
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611066
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Martin Luther King Jr. Day\, no classes
+DTSTART;VALUE=DATE:20280117
+DTEND;VALUE=DATE:20280118
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T140241Z
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1450611136
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611136
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Summer class schedule available
+DTSTART;VALUE=DATE:20280207
+DTEND;VALUE=DATE:20280208
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115712Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611067
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611067
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Presidents Day\, no classes
+DTSTART;VALUE=DATE:20280221
+DTEND;VALUE=DATE:20280222
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T140241Z
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1450611137
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611137
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of summer registration period for continuing graduate 
+ students and undergraduate students
+DTSTART;VALUE=DATE:20280228
+DTEND;VALUE=DATE:20280229
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115713Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611075
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611075
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of spring break
+DTSTART;VALUE=DATE:20280306
+DTEND;VALUE=DATE:20280307
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115713Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611076
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611076
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring classes resume
+DTSTART;VALUE=DATE:20280313
+DTEND;VALUE=DATE:20280314
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115713Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611079
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611079
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall class schedule available
+DTSTART;VALUE=DATE:20280320
+DTEND;VALUE=DATE:20280321
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115713Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611082
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611082
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Farmworkers Day\, no classes (Oakland and Silicon Valley on
+ ly)
+DTSTART;VALUE=DATE:20280331
+DTEND;VALUE=DATE:20280401
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T140241Z
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1450611138
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611138
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of fall registration period for continuing undergradua
+ te students
+DTSTART;VALUE=DATE:20280410
+DTEND;VALUE=DATE:20280411
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115713Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611089
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611089
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Good Friday\, no classes (Charlotte only)
+DTSTART;VALUE=DATE:20280414
+DTEND;VALUE=DATE:20280415
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T140241Z
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1450611139
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611139
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Patriots Day\, no classes (Boston and Portland only)
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T140241Z
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1450611140
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611140
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of full-semester spring classes with final exams
+DTSTART;VALUE=DATE:20280423
+DTEND;VALUE=DATE:20280424
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115714Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611091
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611091
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of spring final exam period (if applicable)
+DTSTART;VALUE=DATE:20280424
+DTEND;VALUE=DATE:20280425
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115714Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611092
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611092
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of full-semester spring classes without final exams
+DTSTART;VALUE=DATE:20280430
+DTEND;VALUE=DATE:20280501
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115714Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611095
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611095
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of spring final exam period (if applicable)
+DTSTART;VALUE=DATE:20280430
+DTEND;VALUE=DATE:20280501
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115714Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611094
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611094
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of I Am Here for full-semester\, Session A\, and initi
+ al-third summer classes
+DTSTART;VALUE=DATE:20280504
+DTEND;VALUE=DATE:20280505
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115714Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611096
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611096
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of full-semester\, Session A\, and initial-third summe
+ r classes
+DTSTART;VALUE=DATE:20280510
+DTEND;VALUE=DATE:20280511
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115714Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611097
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611097
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of I Am Here for full-semester\, Session A\, and initia
+ l-third summer classes
+DTSTART;VALUE=DATE:20280511
+DTEND;VALUE=DATE:20280512
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115714Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611098
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611098
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Full-semester\, Session A\, and initial-third summer classes dro
+ pped for students who do not complete I Am Here
+DTSTART;VALUE=DATE:20280512
+DTEND;VALUE=DATE:20280513
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115714Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611099
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611099
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Memorial Day\, no classes
+DTSTART;VALUE=DATE:20280529
+DTEND;VALUE=DATE:20280530
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T140241Z
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1450611141
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611141
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Juneteenth\, no classes
+DTSTART;VALUE=DATE:20280619
+DTEND;VALUE=DATE:20280620
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T140242Z
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1450611142
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611142
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Independence Day\, no classes
+DTSTART;VALUE=DATE:20280704
+DTEND;VALUE=DATE:20280705
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T140242Z
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1450611143
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611143
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of full-semester summer classes with final exams
+DTSTART;VALUE=DATE:20280813
+DTEND;VALUE=DATE:20280814
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115715Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611116
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611116
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of summer final exam period for full term (if applicab
+ le)
+DTSTART;VALUE=DATE:20280814
+DTEND;VALUE=DATE:20280815
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115715Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611117
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611117
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of full-semester summer classes without final exams
+DTSTART;VALUE=DATE:20280820
+DTEND;VALUE=DATE:20280821
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115715Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611119
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611119
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of summer final exam period (if applicable)
+DTSTART;VALUE=DATE:20280820
+DTEND;VALUE=DATE:20280821
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115715Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611118
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Labor Day\, no classes
+DTSTART;VALUE=DATE:20280904
+DTEND;VALUE=DATE:20280905
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2028-
+ 2029
+DTSTAMP:20261103T140242Z
+DESCRIPTION:Academic Year: 2028-2029<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1395354287
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1395354287
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of full-semester\, Session A\, and initial-third fall 
+ classes
+DTSTART;VALUE=DATE:20280906
+DTEND;VALUE=DATE:20280907
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2028-
+ 2029
+DTSTAMP:20261103T115715Z
+DESCRIPTION:Academic Year: 2028-2029<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1395354196
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1395354196
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Faculty grade deadline for full-semester summer classes for Scho
+ ol of Law at 2:00 p.m. ET
+DTSTART;VALUE=DATE:20280919
+DTEND;VALUE=DATE:20280920
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115715Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1450611121
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1450611121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Indigenous Peoples Day\, no classes
+DTSTART;VALUE=DATE:20281009
+DTEND;VALUE=DATE:20281010
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2028-
+ 2029
+DTSTAMP:20261103T140242Z
+DESCRIPTION:Academic Year: 2028-2029<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1395354289
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1395354289
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Veterans Day\, no classes
+DTSTART;VALUE=DATE:20281111
+DTEND;VALUE=DATE:20281112
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2028-
+ 2029
+DTSTAMP:20261103T140242Z
+DESCRIPTION:Academic Year: 2028-2029<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1395354291
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1395354291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of fall break
+DTSTART;VALUE=DATE:20281122
+DTEND;VALUE=DATE:20281123
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2028-
+ 2029
+DTSTAMP:20261103T115716Z
+DESCRIPTION:Academic Year: 2028-2029<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1395354204
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1395354204
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall classes resume
+DTSTART;VALUE=DATE:20281127
+DTEND;VALUE=DATE:20281128
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2028-
+ 2029
+DTSTAMP:20261103T115716Z
+DESCRIPTION:Academic Year: 2028-2029<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1395354205
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1395354205
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of full-semester fall classes with final exams
+DTSTART;VALUE=DATE:20281210
+DTEND;VALUE=DATE:20281211
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2028-
+ 2029
+DTSTAMP:20261103T115716Z
+DESCRIPTION:Academic Year: 2028-2029<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1395354207
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1395354207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of fall final exam period (if applicable)
+DTSTART;VALUE=DATE:20281211
+DTEND;VALUE=DATE:20281212
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2028-
+ 2029
+DTSTAMP:20261103T115716Z
+DESCRIPTION:Academic Year: 2028-2029<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1395354208
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1395354208
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of full-semester fall classes without final exams
+DTSTART;VALUE=DATE:20281217
+DTEND;VALUE=DATE:20281218
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2028-
+ 2029
+DTSTAMP:20261103T115716Z
+DESCRIPTION:Academic Year: 2028-2029<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1395354209
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1395354209
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of full-semester\, Session A\, and initial-third sprin
+ g classes
+DTSTART;VALUE=DATE:20290110
+DTEND;VALUE=DATE:20290111
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2028-
+ 2029
+DTSTAMP:20261103T115716Z
+DESCRIPTION:Academic Year: 2028-2029<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1395354210
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1395354210
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Martin Luther King Jr. Day\, no classes
+DTSTART;VALUE=DATE:20290115
+DTEND;VALUE=DATE:20290116
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2028-
+ 2029
+DTSTAMP:20261103T140242Z
+DESCRIPTION:Academic Year: 2028-2029<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1395354293
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1395354293
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Presidents Day\, no classes
+DTSTART;VALUE=DATE:20290219
+DTEND;VALUE=DATE:20290220
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2028-
+ 2029
+DTSTAMP:20261103T140242Z
+DESCRIPTION:Academic Year: 2028-2029<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1395354295
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1395354295
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of spring break
+DTSTART;VALUE=DATE:20290305
+DTEND;VALUE=DATE:20290306
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2028-
+ 2029
+DTSTAMP:20261103T115716Z
+DESCRIPTION:Academic Year: 2028-2029<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1395354214
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1395354214
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Good Friday\, no classes (Charlotte only)
+DTSTART;VALUE=DATE:20290330
+DTEND;VALUE=DATE:20290331
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2028-
+ 2029
+DTSTAMP:20261103T140242Z
+DESCRIPTION:Academic Year: 2028-2029<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1395354297
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1395354297
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Farmworkers Day\, no classes (Oakland and Silicon Valley on
+ ly)
+DTSTART;VALUE=DATE:20290331
+DTEND;VALUE=DATE:20290401
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2028-
+ 2029
+DTSTAMP:20261103T140242Z
+DESCRIPTION:Academic Year: 2028-2029<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1353673225
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1353673225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Patriots Day\, no classes (Boston and Portland only)
+DTSTART;VALUE=DATE:20290416
+DTEND;VALUE=DATE:20290417
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2028-
+ 2029
+DTSTAMP:20261103T140242Z
+DESCRIPTION:Academic Year: 2028-2029<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1395354299
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1395354299
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of full-semester spring classes with final exams
+DTSTART;VALUE=DATE:20290422
+DTEND;VALUE=DATE:20290423
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2028-
+ 2029
+DTSTAMP:20261103T115717Z
+DESCRIPTION:Academic Year: 2028-2029<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1395354219
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1395354219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of spring final exam period (if applicable)
+DTSTART;VALUE=DATE:20290423
+DTEND;VALUE=DATE:20290424
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2028-
+ 2029
+DTSTAMP:20261103T115717Z
+DESCRIPTION:Academic Year: 2028-2029<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1395354220
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1395354220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of full-semester spring classes without final exams
+DTSTART;VALUE=DATE:20290429
+DTEND;VALUE=DATE:20290430
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2028-
+ 2029
+DTSTAMP:20261103T115717Z
+DESCRIPTION:Academic Year: 2028-2029<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1395354221
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1395354221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of full-semester\, Session A\, and initial-third summe
+ r classes
+DTSTART;VALUE=DATE:20290509
+DTEND;VALUE=DATE:20290510
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2028-
+ 2029
+DTSTAMP:20261103T115717Z
+DESCRIPTION:Academic Year: 2028-2029<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1395354222
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1395354222
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Memorial Day\, no classes
+DTSTART;VALUE=DATE:20290528
+DTEND;VALUE=DATE:20290529
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2028-
+ 2029
+DTSTAMP:20261103T140242Z
+DESCRIPTION:Academic Year: 2028-2029<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1395354301
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1395354301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Juneteenth\, no classes
+DTSTART;VALUE=DATE:20290619
+DTEND;VALUE=DATE:20290620
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2028-
+ 2029
+DTSTAMP:20261103T140242Z
+DESCRIPTION:Academic Year: 2028-2029<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1395354303
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1395354303
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Independence Day\, no classes
+DTSTART;VALUE=DATE:20290704
+DTEND;VALUE=DATE:20290705
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2028-
+ 2029
+DTSTAMP:20261103T140242Z
+DESCRIPTION:Academic Year: 2028-2029<br>
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1395354305
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1395354305
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of full-semester summer classes with final exams
+DTSTART;VALUE=DATE:20290812
+DTEND;VALUE=DATE:20290813
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2028-
+ 2029
+DTSTAMP:20261103T115717Z
+DESCRIPTION:Academic Year: 2028-2029<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1395354230
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1395354230
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of summer final exam period for full term (if applicab
+ le)
+DTSTART;VALUE=DATE:20290813
+DTEND;VALUE=DATE:20290814
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2028-
+ 2029
+DTSTAMP:20261103T115717Z
+DESCRIPTION:Academic Year: 2028-2029<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1395354231
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1395354231
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of full-semester summer classes without final exams
+DTSTART;VALUE=DATE:20290819
+DTEND;VALUE=DATE:20290820
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+X-TRUMBA-CUSTOMFIELD;NAME="Academic Year";ID=21295;TYPE=SingleLine:2028-
+ 2029
+DTSTAMP:20261103T115717Z
+DESCRIPTION:Academic Year: 2028-2029<br>
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1395354232
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1395354232
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Labor Day\, no classes
+DTSTART;VALUE=DATE:20290903
+DTEND;VALUE=DATE:20290904
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T140242Z
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1447679053
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1447679053
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of full-semester\, Session A\, and initial-third fall 
+ classes
+DTSTART;VALUE=DATE:20290905
+DTEND;VALUE=DATE:20290906
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115717Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1447679221
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1447679221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Indigenous Peoples Day\, no classes
+DTSTART;VALUE=DATE:20291008
+DTEND;VALUE=DATE:20291009
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T140242Z
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1447679056
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1447679056
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Veterans Day
+DTSTART;VALUE=DATE:20291111
+DTEND;VALUE=DATE:20291112
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T140242Z
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1447679058
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1447679058
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Veterans Day observed\, no classes
+DTSTART;VALUE=DATE:20291112
+DTEND;VALUE=DATE:20291113
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T140242Z
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1447679059
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1447679059
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of fall break
+DTSTART;VALUE=DATE:20291121
+DTEND;VALUE=DATE:20291122
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115718Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1447679228
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1447679228
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall classes resume
+DTSTART;VALUE=DATE:20291126
+DTEND;VALUE=DATE:20291127
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115718Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1447679229
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1447679229
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of full-semester fall classes with final exams
+DTSTART;VALUE=DATE:20291209
+DTEND;VALUE=DATE:20291210
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115718Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1447679231
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1447679231
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of fall final exam period (if applicable)
+DTSTART;VALUE=DATE:20291210
+DTEND;VALUE=DATE:20291211
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115718Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1447679232
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1447679232
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of full-semester fall classes without final exams
+DTSTART;VALUE=DATE:20291216
+DTEND;VALUE=DATE:20291217
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115718Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1447679233
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1447679233
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of full-semester\, Session A\, and initial-third sprin
+ g classes
+DTSTART;VALUE=DATE:20300109
+DTEND;VALUE=DATE:20300110
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115718Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1447679234
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1447679234
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Martin Luther King Jr. Day\, no classes
+DTSTART;VALUE=DATE:20300121
+DTEND;VALUE=DATE:20300122
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T140242Z
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1447679060
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1447679060
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Presidents Day\, no classes
+DTSTART;VALUE=DATE:20300218
+DTEND;VALUE=DATE:20300219
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T140242Z
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1447679063
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1447679063
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of spring break
+DTSTART;VALUE=DATE:20300304
+DTEND;VALUE=DATE:20300305
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115719Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1447679238
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1447679238
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: FarmworkersDay\, no classes (Oakland and Silicon Valley onl
+ y)
+DTSTART;VALUE=DATE:20300331
+DTEND;VALUE=DATE:20300401
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T140242Z
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1447679065
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1447679065
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Patriots Day\, no classes (Boston and Portland only)
+DTSTART;VALUE=DATE:20300415
+DTEND;VALUE=DATE:20300416
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T140242Z
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1447679067
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1447679067
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Good Friday\, no classes (Charlotte only)
+DTSTART;VALUE=DATE:20300419
+DTEND;VALUE=DATE:20300420
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T140242Z
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1447679069
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1447679069
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of full-semester spring classes with final exams
+DTSTART;VALUE=DATE:20300421
+DTEND;VALUE=DATE:20300422
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115719Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1447679243
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1447679243
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of spring final exam period (if applicable)
+DTSTART;VALUE=DATE:20300422
+DTEND;VALUE=DATE:20300423
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115719Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1447679244
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1447679244
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of full-semester spring classes without final exams
+DTSTART;VALUE=DATE:20300428
+DTEND;VALUE=DATE:20300429
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115719Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1447679245
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1447679245
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of full-semester\, Session A\, and initial-third summe
+ r classes
+DTSTART;VALUE=DATE:20300508
+DTEND;VALUE=DATE:20300509
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115719Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1447679246
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1447679246
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Memorial Day\, no classes
+DTSTART;VALUE=DATE:20300527
+DTEND;VALUE=DATE:20300528
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T140242Z
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1447679071
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1447679071
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Juneteenth\, no classes
+DTSTART;VALUE=DATE:20300619
+DTEND;VALUE=DATE:20300620
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T140243Z
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1447679073
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1447679073
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USA: Independence Day\, no classes
+DTSTART;VALUE=DATE:20300704
+DTEND;VALUE=DATE:20300705
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T140243Z
+CATEGORIES:Holidays - United States (USA)
+UID:http://uid.trumba.com/event/1447679075
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1447679075
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of full-semester summer classes with final exams
+DTSTART;VALUE=DATE:20300811
+DTEND;VALUE=DATE:20300812
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115720Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1447679255
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1447679255
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First day of summer final exam period for full term (if applicab
+ le)
+DTSTART;VALUE=DATE:20300812
+DTEND;VALUE=DATE:20300813
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115720Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1447679256
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1447679256
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last day of full-semester summer classes without final exams
+DTSTART;VALUE=DATE:20300818
+DTEND;VALUE=DATE:20300819
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=12;TYPE=number:Calendar Announ
+ cement
+DTSTAMP:20261103T115720Z
+CATEGORIES:Semester - All Levels (SEM)
+UID:http://uid.trumba.com/event/1447679257
+X-TRUMBA-LINK:https://registrar.northeastern.edu/article/academic-calend
+ ar/?trumbaEmbed=view%3Devent%26eventid%3D1447679257
+END:VEVENT
+END:VCALENDAR

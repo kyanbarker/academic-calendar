@@ -1,0 +1,40 @@
+name: Build undergrad calendar
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # every 6 hours (UTC)
+  workflow_dispatch:          # manual "Run workflow" button / gh workflow run
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      # Fetches the live feed; exits non-zero on failure, so the
+      # previously deployed undergrad.ics stays in place.
+      - name: Filter calendar
+        run: |
+          mkdir site
+          python3 filter_calendar.py -o site/undergrad.ics
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v4
